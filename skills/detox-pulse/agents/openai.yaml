@@ -1,0 +1,4 @@
+interface:
+  display_name: "DETOX Pulse"
+  short_description: "Analyze audience emotional journeys in text."
+  default_prompt: "Use $detox-pulse to analyze this text as an audience emotional journey."

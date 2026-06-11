@@ -1,0 +1,4 @@
+interface:
+  display_name: "DETOX Voxford"
+  short_description: "Turn writing into teleprompter speech"
+  default_prompt: "Use $detox-voxford to convert this article into a natural teleprompter script and explain the changes."

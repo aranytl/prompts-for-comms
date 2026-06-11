@@ -1,0 +1,7 @@
+interface:
+  display_name: "DETOX Hook"
+  short_description: "Create emotionally tuned, accurate headlines"
+  default_prompt: "Use $detox-hook to turn this article summary into emotionally distinct headline options."
+
+policy:
+  allow_implicit_invocation: true
